@@ -1,0 +1,16 @@
+1. credientls
+	Username : admin@gmail.com
+	Pwd	 : admin
+	
+	Username : mohanrajnagooran@gmail.com
+	Pwd	 : 12345
+	
+	Username : rockmohan244@gmail.com
+	Pwd	 : 12345
+
+2.mongodb
+	username: mohanraj
+	password: 12345
+
+3.connection
+pwd: 1OqOnmq9axwm0pcU
