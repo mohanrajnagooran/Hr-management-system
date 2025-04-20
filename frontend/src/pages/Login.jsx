@@ -3,7 +3,6 @@ import axios from 'axios'
 import { useAuth } from '../context/authContext';
 import { useNavigate } from 'react-router-dom';
 import logo from  '../assets/logo.png'
-import welcome from '../assets/welcome.png'
 
 const Login = () => {
 
